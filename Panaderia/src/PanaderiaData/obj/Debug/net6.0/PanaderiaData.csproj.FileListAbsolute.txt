@@ -1,0 +1,15 @@
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/bin/Debug/net6.0/PanaderiaData.deps.json
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/bin/Debug/net6.0/PanaderiaData.dll
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/bin/Debug/net6.0/PanaderiaData.pdb
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/bin/Debug/net6.0/PanaderiaModel.dll
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/bin/Debug/net6.0/PanaderiaModel.pdb
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.csproj.AssemblyReference.cache
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.GeneratedMSBuildEditorConfig.editorconfig
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.AssemblyInfoInputs.cache
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.AssemblyInfo.cs
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.csproj.CoreCompileInputs.cache
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.csproj.CopyComplete
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.dll
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/refint/PanaderiaData.dll
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/PanaderiaData.pdb
+/home/jailex/Documentos/Panaderia/src/PanaderiaData/obj/Debug/net6.0/ref/PanaderiaData.dll
